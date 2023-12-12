@@ -1,4 +1,4 @@
-from icecream import ic
+from icecream import ic # type: ignore
 
 
 for n in range(1, 101):
